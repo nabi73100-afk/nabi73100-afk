@@ -1,16 +1,20 @@
-## Hi there 👋
+# Nabi Jie Pang  
+Artist-Researcher in Material Civilization   
 
-<!--
-**nabi73100-afk/nabi73100-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work investigates lacquer as a civilizational substance — not merely a material or craft, but a temporal medium through which cultural memory, technological systems, and philosophical structures are formed and transmitted.
+---
+Research focuses include:
 
-Here are some ideas to get you started:
+• Lacquer ontology and material philosophy  
+• Civilization-scale material systems in East Asia  
+• Deep-time aesthetics and material memory  
+• Transdisciplinary artistic practice spanning visual art, moving image, and writing  
+• AI-assisted artistic methodologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through artistic research, curatorial experimentation, and theoretical writing, I explore how materials structure not only objects, but also historical consciousness and forms of knowledge.
+
+This profile serves as an evolving archive of research, projects, and conceptual frameworks.
+
+
+Alberta Lacquer Art & Media Center  
+Calgary, Canada
